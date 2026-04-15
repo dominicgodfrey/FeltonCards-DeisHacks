@@ -2,6 +2,10 @@
 
 A robust mobile application designed for CDCW to manage guest services, track budgets, and streamline check-ins using NFC technology. The system utilizes a **React Native** mobile app for staff and a **Google Sheets** backend for data storage and reporting.
 
+**DeisHacks Winner 2026**
+Devpost: https://devpost.com/software/felton-cards
+Demo: https://www.youtube.com/watch?v=bvJD9Kr8JYI
+
 ## 🚀 Features
 
 -   **NFC Card Integration**: Instantly pull up guest profiles by tapping their ID card.
